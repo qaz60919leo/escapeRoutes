@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\文件\大四上\case\米粒\逃生MK3_填入式\逃生MK3_填入式\bin\Debug\逃生MK3_填入式.exe.config
+C:\Users\user\Desktop\文件\大四上\case\米粒\逃生MK3_填入式\逃生MK3_填入式\bin\Debug\逃生MK3_填入式.exe
+C:\Users\user\Desktop\文件\大四上\case\米粒\逃生MK3_填入式\逃生MK3_填入式\bin\Debug\逃生MK3_填入式.pdb
+C:\Users\user\Desktop\文件\大四上\case\米粒\逃生MK3_填入式\逃生MK3_填入式\obj\Debug\逃生MK3_填入式.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\文件\大四上\case\米粒\逃生MK3_填入式\逃生MK3_填入式\obj\Debug\逃生MK3_填入式.exe
+C:\Users\user\Desktop\文件\大四上\case\米粒\逃生MK3_填入式\逃生MK3_填入式\obj\Debug\逃生MK3_填入式.pdb
